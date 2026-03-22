@@ -67,6 +67,42 @@ def categorize(story):
     if any(x in title for x in ['chip', 'cpu', 'gpu', 'iphone', 'pixel', 'hardware']): return 'Hardware'
     return 'General Tech'
 
+def load_existing_digest():
+    """Load existing digest to preserve old stories"""
+    out_path = Path(__file__).parent / 'digest.json'
+    if out_path.exists():
+        try:
+            with open(out_path) as f:
+                return json.load(f)
+        except: pass
+    return None
+
+def merge_stories(old_stories, new_stories):
+    """Merge old and new stories, avoid duplicates, keep last 50 per category"""
+    merged = {}
+    seen_urls = set()
+    
+    # Add new stories first (they appear on top)
+    for cat, stories in new_stories.items():
+        if cat not in merged: merged[cat] = []
+        for s in stories:
+            if s['url'] not in seen_urls:
+                seen_urls.add(s['url'])
+                merged[cat].append(s)
+    
+    # Then add old stories (if not duplicate)
+    for cat, stories in old_stories.items():
+        if cat not in merged: merged[cat] = []
+        for s in stories:
+            if s['url'] not in seen_urls:
+                seen_urls.add(s['url'])
+                merged[cat].append(s)
+        
+        # Keep only last 50 per category
+        merged[cat] = merged[cat][:50]
+    
+    return merged
+
 def main():
     print("Fetching RSS feeds...")
     all_items = []
@@ -77,34 +113,46 @@ def main():
     
     print(f"\nTotal raw: {len(all_items)} stories")
     
+    # Load existing digest
+    existing = load_existing_digest()
+    old_stories = existing.get('stories', {}) if existing else {}
+    old_count = sum(len(v) for v in old_stories.values())
+    print(f"Existing digest: {old_count} stories")
+    
     # Filter
     filtered = filter_stories(all_items)
     print(f"After filter: {len(filtered)} relevant stories")
     
-    # Categorize
-    categorized = {}
-    for story in filtered[:15]:  # Top 15
+    # Categorize NEW stories only
+    new_stories = {}
+    for story in filtered[:20]:  # Top 20 new stories
         cat = categorize(story)
-        if cat not in categorized: categorized[cat] = []
-        categorized[cat].append({
+        if cat not in new_stories: new_stories[cat] = []
+        new_stories[cat].append({
             'title': story['title'],
             'url': story['url'],
-            'summary': 'Summary pending AI generation...'  # Placeholder
+            'summary': story.get('summary', 'Story summary...')
         })
+    
+    # Merge old + new
+    merged = merge_stories(old_stories, new_stories)
     
     # Output
     output = {
-        'generatedAt': datetime.utcnow().isoformat() + 'Z',
-        'stories': categorized
+        'generatedAt': datetime.now().astimezone().isoformat(),
+        'stories': merged
     }
     
     out_path = Path(__file__).parent / 'digest.json'
     with open(out_path, 'w') as f:
-        json.dump(output, f, indent=2)
+        json.dump(output, f, indent=2, ensure_ascii=False)
     
-    print(f"\n✅ Digest saved to {out_path}")
-    print(f"   Categories: {list(categorized.keys())}")
-    print(f"   Total stories: {sum(len(v) for v in categorized.values())}")
+    new_count = sum(len(v) for v in merged.values())
+    added = new_count - old_count
+    
+    print(f"\n✅ Digest updated: {out_path}")
+    print(f"   Categories: {list(merged.keys())}")
+    print(f"   Total stories: {new_count} (+{added} new)")
 
 if __name__ == '__main__':
     main()
