@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2026-03-23T01:30:00Z",
+  "stories": {
+    "AI/ML": [
+      {
+        "title": "**New AI Model** Breaks Performance Record with **40% Efficiency** Gain",
+        "summary": "**Breakthrough** in language model architecture reduces **compute costs** significantly.",
+        "url": "https://news.ycombinator.com/item?id=123"
+      },
+      {
+        "title": "**OpenAI** Announces **GPT-5** Release Date",
+        "summary": "**Next-gen model** expected to launch in **Q2 2026** with major improvements.",
+        "url": "https://techcrunch.com/example"
+      }
+    ],
+    "Security": [
+      {
+        "title": "**Critical Security Breach** Affects **Millions** of Users",
+        "summary": "**Zero-day vulnerability** discovered in enterprise software prompts urgent patches.",
+        "url": "https://arstechnica.com/example"
+      }
+    ],
+    "Startups": [
+      {
+        "title": "**AI Startup** Raises **$50M Series B** Led by Top VC",
+        "summary": "**Funding round** values company at **$500M** as AI investment surges.",
+        "url": "https://techcrunch.com/example2"
+      }
+    ]
+  }
+}
