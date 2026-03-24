@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T08:00:41.145403+08:00",
+  "generatedAt": "2026-03-24T20:00:24.449302+08:00",
   "stories": {
     "AI/ML": [
       {
@@ -83,6 +83,11 @@
         "summary": "Story summary..."
       },
       {
+        "title": "<![CDATA[Show HN: Cq – Stack Overflow for AI coding agents]]>",
+        "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+        "summary": "Story summary..."
+      },
+      {
         "title": "You&#039;re likely already infected with a brain-eating virus you&#039;ve never heard of",
         "url": "https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/",
         "summary": "Story summary..."
@@ -145,6 +150,11 @@
         "summary": "Story summary..."
       },
       {
+        "title": "<![CDATA[Microsoft's \"Fix\" for Windows 11: Flowers After the Beating]]>",
+        "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+        "summary": "Story summary..."
+      },
+      {
         "title": "<![CDATA[Talking Liquid Glass with Apple]]>",
         "url": "https://captainswiftui.substack.com/p/talking-liquid-glass-with-apple",
         "summary": "Story summary..."
@@ -161,6 +171,11 @@
       }
     ],
     "Security": [
+      {
+        "title": "<![CDATA[The Resolv hack: How one compromised key printed $23M]]>",
+        "url": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
+        "summary": "Story summary..."
+      },
       {
         "title": "<![CDATA[Hacker Mints $80M USD Worth of USR Stablecoins]]>",
         "url": "https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/",
