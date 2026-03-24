@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T20:00:19.910095+08:00",
+  "generatedAt": "2026-03-24T08:00:41.145403+08:00",
   "stories": {
     "AI/ML": [
       {
@@ -55,6 +55,31 @@
       {
         "title": "Top 9 Free AI Tools That Make Your Life Easier",
         "url": "https://techncruncher.blogspot.com/2022/01/top-9-free-ai-tools-that-make-your-life.html",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop”",
+        "url": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "After hackers hit an Iowa company, cars around the country failed to start",
+        "url": "https://arstechnica.com/security/2026/03/after-hack-some-ignition-interlock-users-couldnt-start-their-own-cars/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "Long fingernails vs. touchscreens: This nail polish could help",
+        "url": "https://arstechnica.com/science/2026/03/long-fingernails-vs-touchscreens-this-nail-polish-could-help/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "As teens await sentencing for nudifying girls, parents aim to sue school",
+        "url": "https://arstechnica.com/tech-policy/2026/03/as-teens-await-sentencing-for-nudifying-girls-parents-aim-to-sue-school/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "AI is beginning to change the business of law",
+        "url": "https://arstechnica.com/ai/2026/03/ai-is-beginning-to-change-the-business-of-law/",
         "summary": "Story summary..."
       },
       {
@@ -115,6 +140,16 @@
     ],
     "General Tech": [
       {
+        "title": "Apple will talk iOS 27, macOS 27, and more at WWDC 2026 on June 8",
+        "url": "https://arstechnica.com/gadgets/2026/03/apple-will-talk-ios-27-macos-27-and-more-at-wwdc-2026-on-june-8/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "<![CDATA[Talking Liquid Glass with Apple]]>",
+        "url": "https://captainswiftui.substack.com/p/talking-liquid-glass-with-apple",
+        "summary": "Story summary..."
+      },
+      {
         "title": "Microsoft keeps insisting that it&#039;s deeply committed to the quality of Windows 11",
         "url": "https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/",
         "summary": "Story summary..."
@@ -126,6 +161,11 @@
       }
     ],
     "Security": [
+      {
+        "title": "<![CDATA[Hacker Mints $80M USD Worth of USR Stablecoins]]>",
+        "url": "https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/",
+        "summary": "Story summary..."
+      },
       {
         "title": "**Critical Security Breach** Affects **Millions** of Users",
         "summary": "**Zero-day vulnerability** discovered in enterprise software prompts urgent patches.",
