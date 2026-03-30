@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T20:00:24.449302+08:00",
+  "generatedAt": "2026-03-30T08:00:21.787239+08:00",
   "stories": {
     "AI/ML": [
       {
@@ -55,6 +55,41 @@
       {
         "title": "Top 9 Free AI Tools That Make Your Life Easier",
         "url": "https://techncruncher.blogspot.com/2022/01/top-9-free-ai-tools-that-make-your-life.html",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "Explanation for why we don&#039;t see two-foot-long dragonflies anymore fails",
+        "url": "https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
+        "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure",
+        "url": "https://arstechnica.com/health/2026/03/kidney-failure-case-reported-in-raw-cheese-outbreak-maker-still-denies-link/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "DOJ confirms FBI Director Kash Patel’s personal email was hacked",
+        "url": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "Sony is raising PlayStation 5 prices again, this time by between $100 and $150",
+        "url": "https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "<![CDATA[Coding Agents Could Make Free Software Matter Again]]>",
+        "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "<![CDATA[Claude Code runs Git reset –hard origin/main against project repo every 10 mins]]>",
+        "url": "https://github.com/anthropics/claude-code/issues/40710",
         "summary": "Story summary..."
       },
       {
@@ -145,6 +180,11 @@
     ],
     "General Tech": [
       {
+        "title": "Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop",
+        "url": "https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/",
+        "summary": "Story summary..."
+      },
+      {
         "title": "Apple will talk iOS 27, macOS 27, and more at WWDC 2026 on June 8",
         "url": "https://arstechnica.com/gadgets/2026/03/apple-will-talk-ios-27-macos-27-and-more-at-wwdc-2026-on-june-8/",
         "summary": "Story summary..."
@@ -167,6 +207,13 @@
       {
         "title": "NASA wants to know how the launch industry&#039;s chic new rocket fuel explodes",
         "url": "https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/",
+        "summary": "Story summary..."
+      }
+    ],
+    "Cloud/DevOps": [
+      {
+        "title": "<![CDATA[ChatGPT won't let you type until Cloudflare reads your React state]]>",
+        "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
         "summary": "Story summary..."
       }
     ],
