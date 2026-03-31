@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T20:00:16.290876+08:00",
+  "generatedAt": "2026-03-31T08:00:21.418371+08:00",
   "stories": {
     "AI/ML": [
       {
@@ -80,6 +80,21 @@
       {
         "title": "Sony is raising PlayStation 5 prices again, this time by between $100 and $150",
         "url": "https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "<![CDATA[Recover Apple Keychain]]>",
+        "url": "https://arkoinad.com/posts/apple_keychain_recovery.html",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "<![CDATA[FTC action against Match and OkCupid for deceiving users, sharing personal data]]>",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "<![CDATA[Show HN: Coasts – Containerized Hosts for Agents]]>",
+        "url": "https://github.com/coast-guard/coasts",
         "summary": "Story summary..."
       },
       {
@@ -193,6 +208,18 @@
         "url": "https://techcrunch.com/example"
       }
     ],
+    "Startups": [
+      {
+        "title": "<![CDATA[Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?]]>",
+        "url": "https://30u30.fyi",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "**AI Startup** Raises **$50M Series B** Led by Top VC",
+        "summary": "**Funding round** values company at **$500M** as AI investment surges.",
+        "url": "https://techcrunch.com/example2"
+      }
+    ],
     "General Tech": [
       {
         "title": "Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop",
@@ -247,13 +274,6 @@
         "title": "**Critical Security Breach** Affects **Millions** of Users",
         "summary": "**Zero-day vulnerability** discovered in enterprise software prompts urgent patches.",
         "url": "https://arstechnica.com/example"
-      }
-    ],
-    "Startups": [
-      {
-        "title": "**AI Startup** Raises **$50M Series B** Led by Top VC",
-        "summary": "**Funding round** values company at **$500M** as AI investment surges.",
-        "url": "https://techcrunch.com/example2"
       }
     ]
   }
