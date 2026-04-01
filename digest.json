@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T20:00:13.687169+08:00",
+  "generatedAt": "2026-04-01T08:00:15.115419+08:00",
   "stories": {
     "AI/ML": [
       {
@@ -55,6 +55,41 @@
       {
         "title": "Top 9 Free AI Tools That Make Your Life Easier",
         "url": "https://techncruncher.blogspot.com/2022/01/top-9-free-ai-tools-that-make-your-life.html",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "He-Man gets an origin story in Masters of the Universe trailer",
+        "url": "https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "It&#039;s a race against time to save Krypto in Supergirl trailer",
+        "url": "https://arstechnica.com/culture/2026/03/its-a-race-against-time-to-save-krypto-in-supergirl-trailer/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "You can finally change the goofy Gmail address you chose years ago",
+        "url": "https://arstechnica.com/gadgets/2026/03/you-can-finally-change-the-goofy-gmail-address-you-chose-years-ago/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "Costco sued for seeking refunds on tariffs customers paid",
+        "url": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "What&#039;s the best cabin layout for aircraft evacuation?",
+        "url": "https://arstechnica.com/science/2026/03/whats-the-best-cabin-layout-for-aircraft-evacuation/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "How did Anthropic measure AI&#039;s &quot;theoretical capabilities&quot; in the job market?",
+        "url": "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "Iran&#039;s hackers are on the offensive against the US and Israel",
+        "url": "https://arstechnica.com/security/2026/03/irans-hackers-are-on-the-offensive-against-the-us-and-israel/",
         "summary": "Story summary..."
       },
       {
@@ -216,31 +251,19 @@
         "title": "<![CDATA[A case against currying]]>",
         "url": "https://emi-h.com/articles/a-case-against-currying.html",
         "summary": "Story summary..."
-      },
-      {
-        "title": "**New AI Model** Breaks Performance Record with **40% Efficiency** Gain",
-        "summary": "**Breakthrough** in language model architecture reduces **compute costs** significantly.",
-        "url": "https://news.ycombinator.com/item?id=123"
-      },
-      {
-        "title": "**OpenAI** Announces **GPT-5** Release Date",
-        "summary": "**Next-gen model** expected to launch in **Q2 2026** with major improvements.",
-        "url": "https://techcrunch.com/example"
-      }
-    ],
-    "Startups": [
-      {
-        "title": "<![CDATA[Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?]]>",
-        "url": "https://30u30.fyi",
-        "summary": "Story summary..."
-      },
-      {
-        "title": "**AI Startup** Raises **$50M Series B** Led by Top VC",
-        "summary": "**Funding round** values company at **$500M** as AI investment surges.",
-        "url": "https://techcrunch.com/example2"
       }
     ],
     "General Tech": [
+      {
+        "title": "Starlink satellite breaks apart into &quot;tens of objects&quot;; SpaceX confirms &quot;anomaly&quot;",
+        "url": "https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "This is my third Orion launch, but it feels totally different",
+        "url": "https://arstechnica.com/features/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/",
+        "summary": "Story summary..."
+      },
       {
         "title": "Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop",
         "url": "https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/",
@@ -270,6 +293,18 @@
         "title": "NASA wants to know how the launch industry&#039;s chic new rocket fuel explodes",
         "url": "https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/",
         "summary": "Story summary..."
+      }
+    ],
+    "Startups": [
+      {
+        "title": "<![CDATA[Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?]]>",
+        "url": "https://30u30.fyi",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "**AI Startup** Raises **$50M Series B** Led by Top VC",
+        "summary": "**Funding round** values company at **$500M** as AI investment surges.",
+        "url": "https://techcrunch.com/example2"
       }
     ],
     "Cloud/DevOps": [
