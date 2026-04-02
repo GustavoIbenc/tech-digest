@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T08:00:17.720682+08:00",
+  "generatedAt": "2026-04-02T20:00:16.633455+08:00",
   "stories": {
     "AI/ML": [
       {
@@ -70,6 +70,11 @@
       {
         "title": "It&#039;s a race against time to save Krypto in Supergirl trailer",
         "url": "https://arstechnica.com/culture/2026/03/its-a-race-against-time-to-save-krypto-in-supergirl-trailer/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "A New Implant Aims to Rewire Stroke Patients’ Brains",
+        "url": "https://www.wired.com/story/a-new-implant-aims-to-rewire-the-brain-to-help-stroke-patients/",
         "summary": "Story summary..."
       },
       {
@@ -246,14 +251,14 @@
         "title": "RFK may replace entire panel of CDC vaccine advisors again, ally lets slip",
         "url": "https://arstechnica.com/health/2026/03/rfk-may-replace-entire-panel-of-cdc-vaccine-advisors-again-ally-lets-slip/",
         "summary": "Story summary..."
-      },
-      {
-        "title": "Amazon is reportedly developing an AI-centric smartphone",
-        "url": "https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/",
-        "summary": "Story summary..."
       }
     ],
     "General Tech": [
+      {
+        "title": "Artemis II, NASA&#039;s boldest mission in generations, launches crew to the Moon",
+        "url": "https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/",
+        "summary": "Story summary..."
+      },
       {
         "title": "SpaceX finally files for IPO, targets $1.75 trillion valuation",
         "url": "https://arstechnica.com/space/2026/04/spacex-finally-files-for-ipo-targets-1-75-trillion-valuation/",
