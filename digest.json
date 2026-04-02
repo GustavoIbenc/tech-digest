@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T20:00:17.274455+08:00",
+  "generatedAt": "2026-04-02T08:00:17.720682+08:00",
   "stories": {
     "AI/ML": [
       {
@@ -58,6 +58,11 @@
         "summary": "Story summary..."
       },
       {
+        "title": "Nvidia rolls out its fix for PC gaming&#039;s &quot;compiling shaders&quot; wait times",
+        "url": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
+        "summary": "Story summary..."
+      },
+      {
         "title": "He-Man gets an origin story in Masters of the Universe trailer",
         "url": "https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/",
         "summary": "Story summary..."
@@ -65,6 +70,16 @@
       {
         "title": "It&#039;s a race against time to save Krypto in Supergirl trailer",
         "url": "https://arstechnica.com/culture/2026/03/its-a-race-against-time-to-save-krypto-in-supergirl-trailer/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
+        "url": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
+        "url": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/",
         "summary": "Story summary..."
       },
       {
@@ -236,24 +251,19 @@
         "title": "Amazon is reportedly developing an AI-centric smartphone",
         "url": "https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/",
         "summary": "Story summary..."
-      },
-      {
-        "title": "<![CDATA[GitHub appears to be struggling with measly three nines availability]]>",
-        "url": "https://www.theregister.com/2026/02/10/github_outages/",
-        "summary": "Story summary..."
-      },
-      {
-        "title": "<![CDATA[Can the world get its supply of oil by bypassing the Strait of Hormuz?]]>",
-        "url": "https://www.firstpost.com/explainers/iran-war-strait-of-hormuz-blocked-possible-alternatives-oil-gas-supply-13989112.html",
-        "summary": "Story summary..."
-      },
-      {
-        "title": "<![CDATA[A case against currying]]>",
-        "url": "https://emi-h.com/articles/a-case-against-currying.html",
-        "summary": "Story summary..."
       }
     ],
     "General Tech": [
+      {
+        "title": "SpaceX finally files for IPO, targets $1.75 trillion valuation",
+        "url": "https://arstechnica.com/space/2026/04/spacex-finally-files-for-ipo-targets-1-75-trillion-valuation/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "Launch day has arrived for NASA&#039;s Artemis II mission—here&#039;s what to expect",
+        "url": "https://arstechnica.com/space/2026/04/launch-day-has-arrived-for-nasas-artemis-ii-mission-heres-what-to-expect/",
+        "summary": "Story summary..."
+      },
       {
         "title": "Starlink satellite breaks apart into &quot;tens of objects&quot;; SpaceX confirms &quot;anomaly&quot;",
         "url": "https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/",
@@ -296,6 +306,11 @@
       }
     ],
     "Startups": [
+      {
+        "title": "Trump defunding of NPR and PBS blocked by judge, but damage is already done",
+        "url": "https://arstechnica.com/tech-policy/2026/04/trump-defunding-of-npr-and-pbs-blocked-by-judge-but-damage-is-already-done/",
+        "summary": "Story summary..."
+      },
       {
         "title": "<![CDATA[Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?]]>",
         "url": "https://30u30.fyi",
