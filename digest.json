@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T20:00:16.633455+08:00",
+  "generatedAt": "2026-04-03T08:00:20.467814+08:00",
   "stories": {
     "AI/ML": [
       {
@@ -58,8 +58,23 @@
         "summary": "Story summary..."
       },
       {
+        "title": "Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars",
+        "url": "https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "Google announces Gemma 4 open AI models, switches to Apache 2.0 license",
+        "url": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
+        "summary": "Story summary..."
+      },
+      {
         "title": "Nvidia rolls out its fix for PC gaming&#039;s &quot;compiling shaders&quot; wait times",
         "url": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "<![CDATA[Zep AI Is Hiring – Building the Agent Context Layer (YC W24)]]>",
+        "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
         "summary": "Story summary..."
       },
       {
@@ -236,24 +251,24 @@
         "title": "Once again, ULA can&#039;t deliver when the US military needs a satellite in orbit",
         "url": "https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/",
         "summary": "Story summary..."
-      },
-      {
-        "title": "Writer denies it, but publisher pulls horror novel after multiple allegations of AI use",
-        "url": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
-        "summary": "Story summary..."
-      },
-      {
-        "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
-        "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
-        "summary": "Story summary..."
-      },
-      {
-        "title": "RFK may replace entire panel of CDC vaccine advisors again, ally lets slip",
-        "url": "https://arstechnica.com/health/2026/03/rfk-may-replace-entire-panel-of-cdc-vaccine-advisors-again-ally-lets-slip/",
-        "summary": "Story summary..."
       }
     ],
     "General Tech": [
+      {
+        "title": "SpaceX tries to convince FCC that Amazon put satellites into wrong altitude",
+        "url": "https://arstechnica.com/tech-policy/2026/04/spacex-claims-amazon-leo-launches-could-crash-into-starlink-satellites/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "Tesla sales grew by 6% in Q1, but company has an overproduction problem",
+        "url": "https://arstechnica.com/cars/2026/04/tesla-sales-grew-by-6-in-q1-but-company-has-an-overproduction-problem/",
+        "summary": "Story summary..."
+      },
+      {
+        "title": "Amazon is trying to buy Globalstar to compete with SpaceX&#039;s Starlink",
+        "url": "https://arstechnica.com/tech-policy/2026/04/amazon-is-trying-to-buy-globalstar-to-compete-with-spacexs-starlink/",
+        "summary": "Story summary..."
+      },
       {
         "title": "Artemis II, NASA&#039;s boldest mission in generations, launches crew to the Moon",
         "url": "https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/",
